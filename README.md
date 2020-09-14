@@ -15,3 +15,4 @@
 |11.|Maximum Product Subarray|Greedy|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/)|
 |12.|Combination Sum III|Backtracking|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|
 |13.|Insert Interval|Vectors|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/)|
+|14.|House Robber|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/)|
