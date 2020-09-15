@@ -16,3 +16,4 @@
 |12.|Combination Sum III|Backtracking|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|
 |13.|Insert Interval|Vectors|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/)|
 |14.|House Robber|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/)|
+|15.|Length of Last Word|Strings|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|
