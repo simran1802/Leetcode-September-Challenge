@@ -19,3 +19,4 @@
 |15.|Length of Last Word|Strings|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|
 |16.|Maximum XOR of Two Numbers in an Array|Bits|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/)|
 |17.|Robot Bounded In Circle|Maths|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/)|
+|18.|Best Time to Buy and Sell Stock|Greedy|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)|
