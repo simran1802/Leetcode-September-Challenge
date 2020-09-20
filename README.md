@@ -21,3 +21,4 @@
 |17.|Robot Bounded In Circle|Maths|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/)|
 |18.|Best Time to Buy and Sell Stock|Greedy|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)|
 |19.|Sequential Digits|Queue|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/)|
+|20.|Unique Paths III|DFS|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/)|
