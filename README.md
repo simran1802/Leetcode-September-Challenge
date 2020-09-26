@@ -27,3 +27,4 @@
 |23.|Gas Station|Greedy|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/)|
 |24.|Find the Difference|String|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/)|
 |25.|Largest Number|Vector|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3472/)|
+|26.|Teemo Attacking|Vector|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/)|
