@@ -31,3 +31,4 @@
 |27.|Evaluate Division|DFS|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/)|
 |28.|Subarray Product Less Than K|Vector|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/)|
 |29.|Word Break|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/)|
+|30.|First Missing Positive|Greedy|[Link](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/)|
